@@ -8,11 +8,6 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ff0000"
-    },
     "ios": {
       "supportsTablet": true
     },
@@ -39,7 +34,7 @@
           },
           "imageWidth": 200,
           "fade": true,
-          "duration": 500
+          "duration": 100
         }
       ]
     ]
